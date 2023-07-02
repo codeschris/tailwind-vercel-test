@@ -14,3 +14,5 @@ Refrain from:
 ```
 
 The snippet above hindered styling from loading completely.
+
+I hope this helped.
